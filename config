@@ -1,0 +1,10 @@
+config
+git --version
+git config --global user.name "Alexander"
+git config --global user.email "al3xmin3craft@gmail.com"
+git config --global color.ui auto
+git config --global merge.conflictstyle diff3
+git config --list
+git config --global core.editor 
+git condig --global core.editor "code --wait"
+git config --global core.editor "atom --wait"
